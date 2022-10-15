@@ -1,0 +1,20 @@
+#+title: Mathematical Linguistics
+
+
+Workshop no LACIM 2023 (https://eventos.fgv.br/laciam-2023/)
+
+Organizer(s):
+
+- Alexandre Rademaker, FGV EMAp, Brazil;
+- Leonel Figueiredo de Alencar, UFC, Brazil.
+
+Confirmed speakers:
+
+- Alexandre Rademaker, FGV EMAp and IBM Research, Brazil;
+- Daniel Flickinger, Stanford University, USA;
+- Francis Bond, Palacky University Olomouc, Czech Republic; 
+- Guilherme Sales Fernandes, Instituto Atlântico,  Brazil;
+- Carlos Eduardo Atencio Torres, Universidad Nacional de San Agustín, Peru;
+- Eloi Luiz Favero, UFPa, Brazil;
+- Katiuscia de Moraes Andrade, Compass UOL, Brazil;
+- Paulo Rodrigo Cavalin, IBM Research, Brazil.
