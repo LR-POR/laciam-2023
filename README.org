@@ -14,7 +14,7 @@ Confirmed speakers:
 - Daniel Flickinger, Stanford University, USA;
 - Francis Bond, Palacky University Olomouc, Czech Republic; 
 - Guilherme Sales Fernandes, Instituto Atlântico,  Brazil;
-- Carlos Eduardo Atencio Torres, Universidad Nacional de San Agustín, Peru;
+- Pablo Calcina Ccori and Carlos Eduardo Atencio Torres, Universidad Nacional de San Agustín, Peru;
 - Eloi Luiz Favero, UFPa, Brazil;
 - Katiuscia de Moraes Andrade, Compass UOL, Brazil;
 - Paulo Rodrigo Cavalin, IBM Research, Brazil.
